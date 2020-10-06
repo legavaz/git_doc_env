@@ -12,3 +12,5 @@ Precommit1C
 (https://github.com/xDrivenDevelopment/precommit1c)
 (opm install precommit1c)
 
+-это мы сделали дома
+
