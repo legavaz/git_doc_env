@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="CommonModule.Расш1_ОбщийМодуль1" id="e8f73fb2-f9c8-4f8a-ad62-7378a89eb4ea" configVersion="32ed208a0e215c635c9219a27d798c1da2fbc056"/>
+		<Metadata name="CommonModule.Расш1_ОбщийМодуль1.Module" id="e8f73fb2-f9c8-4f8a-ad62-7378a89eb4ea.0" configVersion="1347fd4b4ebfbbf41908374015b176a37e4dbf9d"/>
+		<Metadata name="Configuration.РасширениеПробное" id="a8200827-c19e-4795-a5f2-9711f9c171e0" configVersion="db3ed4bdc3b980206ea47833f86ec232e55372cd"/>
+		<Metadata name="Language.Русский" id="5d76bad2-8ac1-4690-9766-235b18cbab67" configVersion="71a5b73777e63b1deb7f9d8830ac318a3580ba7c"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
